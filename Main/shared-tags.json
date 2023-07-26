@@ -1,0 +1,18 @@
+{
+    "prod": {
+        "builder": "A.scott92@outlook.com",
+        "owner": "a.scott92@outlook.com",
+        "costcenter": "it",
+        "environment": "prd",
+        "project": "infrastructure",
+        "zone": "private"
+        },
+      "test": {       
+        "builder": "A.scott92@outlook.com",
+        "owner": "a.scott92@outlook.com",
+        "costcenter": "it",
+        "environment": "tst",
+        "project": "infrastructure",
+        "zone": "private"
+    }
+      }
