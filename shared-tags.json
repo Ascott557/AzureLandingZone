@@ -1,0 +1,18 @@
+{
+    "prod": {
+        "builder": "bsmyth@codec.ie",
+        "owner": "joe.tiernan@canadalifegroup.com",
+        "costcenter": "it",
+        "environment": "prd",
+        "project": "infrastructure",
+        "zone": "private"
+        },
+      "test": {       
+        "builder": "bsmyth@codec.ie",
+        "owner": "joe.tiernan@canadalifegroup.com",
+        "costcenter": "it",
+        "environment": "tst",
+        "project": "infrastructure",
+        "zone": "private"
+    }
+      }
