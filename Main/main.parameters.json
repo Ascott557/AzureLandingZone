@@ -23,15 +23,15 @@
   },
     "sub": {
       "value": {
-        "connectivity_subid": "6f0a034d-29d7-4e3b-9b3b-cfd3f9555020",
-        "identity_subid": "6f0a034d-29d7-4e3b-9b3b-cfd3f9555020",
-        "management_subid": "6f0a034d-29d7-4e3b-9b3b-cfd3f9555020",
-        "sharedservices_subid": "6f0a034d-29d7-4e3b-9b3b-cfd3f9555020",
-        "alz1_subid": "6f0a034d-29d7-4e3b-9b3b-cfd3f9555020"
+        "connectivity_subid": "3bf46117-3481-415e-9a9a-17bc86944c66",
+        "identity_subid": "3bf46117-3481-415e-9a9a-17bc86944c66",
+        "management_subid": "3bf46117-3481-415e-9a9a-17bc86944c66",
+        "sharedservices_subid": "3bf46117-3481-415e-9a9a-17bc86944c66",
+        "alz1_subid": "3bf46117-3481-415e-9a9a-17bc86944c66"
       }
   },
   "tenantId": {
-    "value": "85b0f265-7672-406a-aab9-b7338acbe280"
+    "value": "28e56913-932c-4dcc-9304-2aef42a4fa83"
   },
   "secretname": {
     "value": "epmaprdadminpwd"
